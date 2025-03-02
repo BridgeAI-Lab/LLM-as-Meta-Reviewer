@@ -17,11 +17,11 @@ If you find our work useful for your research then cite using this BibTeX:
 
 ```bibtex
 
-@article{bhuyan2025bvqa,
-  title={BVQA: Connecting Language and Vision Through Multimodal Attention for Open-Ended Question Answering},
-  author={Bhuyan, Md Shalha Mucha and Hossain, Eftekhar and Sathi, Khaleda Akhter and Hossain, Md Azad and Dewan, M Ali Akber},
-  journal={IEEE Access},
-  year={2025},
-  publisher={IEEE}
+@article{hossain2024llms,
+  title={LLMs as Meta-Reviewers' Assistants: A Case Study},
+  author={Hossain, Eftekhar and Sinha, Sanjeev Kumar and Bansal, Naman and Knipper, Alex and Sarkar, Souvika and Salvador, John and Mahajan, Yash and Guttikonda, Sri and Akter, Mousumi and Mahadi Hassan, Md and others},
+  journal={arXiv e-prints},
+  pages={arXiv--2402},
+  year={2024}
 }
 ```
